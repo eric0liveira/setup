@@ -13,3 +13,6 @@ winget install --id=Git.Git  -e
 
 # Pass
 winget install --id=KeePassXCTeam.KeePassXC  -e
+
+# Video
+winget install --id=VideoLAN.VLC  -e
